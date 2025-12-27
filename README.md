@@ -55,4 +55,4 @@ git clone https://github.com/DiaaWael-cyber/cybersecurity-fundamentals.git
 cd cybersecurity-fundamentals
 
 # Explore the learning materials
-ls -la docs/
+ls -la 
